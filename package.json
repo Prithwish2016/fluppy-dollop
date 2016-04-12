@@ -1,7 +1,7 @@
 {
-  "name": "angular-1.x-reference-app",
+  "name": "fluppy-dollop",
   "version": "0.0.1",
-  "description": "reference app for angularjs-1.x",
+  "description": "fluppy-dollop -MVP",
   "main": "index.js",
   "scripts": {
     "start": "node server",
