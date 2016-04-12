@@ -18,8 +18,8 @@ module.exports = function(config) {
     }
   };
 
-  process.env.SAUCE_USERNAME = 'Prithwish';
-  process.env.SAUCE_ACCESS_KEY = '65e6314a-bf18-4959-87a3-a2b8488d9166';
+  process.env.SAUCE_USERNAME = 'wilpannell';
+  process.env.SAUCE_ACCESS_KEY = '3bb03f9a-f6a7-46ad-9c22-f13e76ef7433';
 
   config.set({
     preprocessors: {
